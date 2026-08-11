@@ -1,5 +1,5 @@
 .venv/
 __pycache__/
+.env
 *.env
-chroma_db/
-uploaded_document.pdf
+!.env.example
