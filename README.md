@@ -1,5 +1,7 @@
 # 🤖 Enterprise PDF-Insight Bot: Production-Grade RAG Architecture
 
+![QA_bot](QA_bot.png)
+
 A powerful, context-aware Retrieval-Augmented Generation (RAG) system built to ingest large-scale documentation, index semantic meaning into a vector space, and handle complex real-time user queries with extreme accuracy. Powered by LangChain, Google Gemini, and Chroma DB.
 
 ---
